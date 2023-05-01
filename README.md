@@ -1,4 +1,4 @@
-# `@carbon/ibm-products` starter template
+# `@carbon/ibm-products` starter template (create-react-app)
 
 This template will scaffold an application using Carbon v11 and Carbon for IBM Products. Use this template to jump start your application with a completely pre-configured setup using `react-scripts`.
 
