@@ -1,0 +1,9 @@
+@use '@carbon/react/scss/type';
+@use '@carbon/react/scss/spacing';
+@use '@carbon/react/scss/components/code-snippet';
+@use './Example/example';
+
+body {
+  margin: 0;
+  padding: spacing.$spacing-05;
+}
