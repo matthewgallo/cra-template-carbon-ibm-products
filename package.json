@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-carbon-ibm-products",
+  "version": "0.0.3",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "carbon",
+    "carbon-ibm-products",
+    "ibm-products"
+  ],
+  "description": "A starter template for the Carbon for IBM Products react component library",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

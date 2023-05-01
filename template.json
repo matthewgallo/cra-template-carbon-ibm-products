@@ -1,0 +1,18 @@
+{
+  "package": {
+    "dependencies": {
+      "@carbon/ibm-products": "^2.0.0-rc.27",
+      "@carbon/react": "^1.15.0",
+      "@testing-library/jest-dom": "^5.16.5",
+      "@testing-library/react": "^12",
+      "@testing-library/user-event": "^12",
+      "react": "^17.0.0",
+      "react-dom": "^17.0.0",
+      "sass": "^1.51.0",
+      "web-vitals": "^2.1.0"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}
